@@ -1,17 +1,17 @@
-Package: com.julioverne.adblock
+Package: com.cydiabr.icleanerpro
 Architecture: iphoneos-arm
-Version: 0.2~beta1
-Section: Tweaks
-Maintainer: Julio
-Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.adblock_0.2~beta1_iphoneos-arm.deb
-Size: 10028
-MD5sum: 0b04b74bb57a4aef287dfa423462a1a5
-SHA1: d353091406336b5370f630bc530a5313e7b6a6e7
-SHA256: 9bcdde6297f82297367cf1ef7bc88e1c8c97fec55c8cc4bfecbe68a23854dffe
-SHA512: 04c6e4527c171c2009a371a11cf0457ff9d52cde14840ce4822b73d5118d5d09950a86e9b4104eef67127093c1ec39ce9bdf2c7969b3b0eef5ca3388a1767917
-Homepage: http://twitter.com/ijulioverne
-Description: ADs Blocker for Apps.. Note: may not load page or app crash.
-Name: ADs Blocker
-Author: julioverne
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adblock
+Version: 7.7.5
+Section: Utilitários
+Maintainer: Marcelo Kachimarck
+Depends: 
+Filename: ./debfiles/com.cydiabr.icleanerpro_7.7.5k_iphoneos-arm.deb
+Size: 7708130
+MD5sum: 58198dafd910aab4887bec700d265cc7
+SHA1: f2f90fc12a839114683924a5c6f25f8714f98b1d
+SHA256: 01701e7d0496b0548f771ebe4d3b0d887c727a63a231c07eecf01078aa3942e0
+SHA512: 91e599a956640447e3c49f51bb6b8834114cc21888eedca90beb95233e545b2b0db25cad0a9910083ed39e968dc611bf8db2feb441582bf0784ead900307b22d
+Homepage: http://twitter.com/cydia_br
+Description: Remova arquivos desnecessários do seu dispositivo.
+Name: iCleaner Pro
+Author: Ivano Bilenchi
+Depiction: http://cydiabr.github.io/repo/description.html?id=com.cydiabr.icleanerpro
