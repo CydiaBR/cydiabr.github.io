@@ -1,7 +1,7 @@
 Package: com.cydiabr.icleanerpro
 Architecture: iphoneos-arm
 Version: 7.7.5
-Section: Utilitários
+Section: Utilidades
 Maintainer: Marcelo Kachimarck
 Depends: 
 Filename: ./debfiles/com.cydiabr.icleanerpro_7.7.5k_iphoneos-arm.deb
@@ -15,3 +15,21 @@ Description: Remova arquivos desnecessários do seu dispositivo.
 Name: iCleaner Pro
 Author: Ivano Bilenchi
 Depiction: http://cydiabr.github.io/description.html?id=com.cydiabr.icleanerpro
+
+Package: com.cydiabr.bancointer
+Architecture: iphoneos-arm
+Version: 0.1beta
+Section: Bypass
+Maintainer: Marcelo Kachimarck
+Depends: 
+Filename: ./debfiles/com.cydiabr.bancointer_0.1beta_iphoneos-arm
+Size: 136622
+MD5sum: 3404b6599703eb38988020cb679f6d5f
+SHA1: e1f50c2112a47ad9d8fa7337b3218750b8d90276
+SHA256: 807d76d9fb1d0a4f81ac79a7a9c53da82fff9c0eea195089528f18c3ab5419f6
+SHA512: 02bd3180f2e631f0b840e54d29fd15530b793a97b453230699b3bbbb8e3ff299bc8614da75dcd07b9fe942fe34b3c6a2bd53bb2e5cc45756853a2083390d633d
+Homepage: http://twitter.com/cydia_br
+Description: Dribla a detecção de Jailbreak do Banco Inter.
+Name: Banco Inter Jailbreak Bypass
+Author: Ivano Bilenchi
+Depiction: http://cydiabr.github.io/description.html?id=com.cydiabr.bancointer
