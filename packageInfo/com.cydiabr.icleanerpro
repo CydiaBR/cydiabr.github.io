@@ -1,9 +1,40 @@
 {
 	"name": "iCleaner Pro",
 	"desc_short": "Exclua arquivos desnecessários do seu dispositivo.",
-	"desc_long": "iExclua arquivos desnecessários do seu dispositivo.",
+	"desc_long": "<p>Para <strong>iPhone</strong>,<strong>iPod</strong> e <strong>iPod</strong></p>.<br>
+	<p>O primeiro e verdadeiro otimizador e limpador de arquivos desnecessário do iOS.</p>
+
+	<p></p><center><strong><u><span style="font-size:110%;">Limpeza</span></u>:</strong></center><br>
+O iCleaner pode liberar espaço removendo arquivos desnecessários do seu dispositivo. O processo de limpeza é feito das seguintes etapas:<br>
+<br>
+<strong>Message attachments:</strong> it deletes files sent and received via iMessage or MMS. The "smart" setting only deletes files that do not show up in any message, while "on" deletes all attachments (messages with attachments will show a blank icon).<br>
+<br>
+<strong>Safari:</strong> it deletes cookies, browsing history and cache files to free up memory and preserve your privacy.<br>
+<br>
+<strong>Applications:</strong> it deletes app caches, cookies, temporary files and snapshots. Furthermore, it detects popular applications for a more in-depth cleanup.<br>
+<br>
+<strong>OTA software updates:</strong> it deletes downloaded iOS update files.<br>
+<br>
+<strong>Battery usage data:</strong> it deletes archived battery data, while leaving current battery data untouched.<br>
+<br>
+<strong>Unused dependencies:</strong> it issues the "apt-get autoremove" command in order to remove packages installed as dependencies that are not needed anymore, and purges uninstalled packages.<br>
+<br>
+<strong>Log files:</strong> it deletes log files and crash reports from known locations. These files are generally irrelevant to the user and can be safely deleted.<br>
+<br>
+<strong>Cache files:</strong> it scans and deletes system cache files and databases. Some of them are rebuilt upon respring. This helps removing obsolete cache data.<br>
+<br>
+<strong>Temporary files:</strong> it deletes temporary files from your device. These files are meant to be removed automatically, but they often happen not to.<br>
+<br>
+<strong>Filetype cleanup:</strong> iCleaner features a custom cleanup pass based on file extensions. By default, it looks for log and temp files all over the directory tree.<br>
+<br>
+<strong>Custom files and Folders cleanup:</strong> with this extremely powerful feature, you can add any file or folder to the cleanup process. Check the <a href="/icleaner/docs">user guide</a> for a detailed explaination of how it works.<br> <p></p>
+
+	
+	
+	
+	",
 	"compatitle": "iOS 4 - iOS 13",
 	"changelog": "<strong>7.7.5k</strong><br>+ Última versão.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/jGNnHK1.png' target='_blank'><img width=95% src='https://i.imgur.com/jGNnHK1.png'/></a><br></div>",
-	"open": true,
+	"open": false,
 }
