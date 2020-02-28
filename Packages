@@ -23,11 +23,11 @@ Section: Bypass
 Maintainer: Marcelo Kachimarck
 Depends: 
 Filename: ./debfiles/com.cydiabr.bancointer_0.1beta_iphoneos-arm.deb
-Size: 136622
-MD5sum: 3404b6599703eb38988020cb679f6d5f
-SHA1: e1f50c2112a47ad9d8fa7337b3218750b8d90276
-SHA256: 807d76d9fb1d0a4f81ac79a7a9c53da82fff9c0eea195089528f18c3ab5419f6
-SHA512: 02bd3180f2e631f0b840e54d29fd15530b793a97b453230699b3bbbb8e3ff299bc8614da75dcd07b9fe942fe34b3c6a2bd53bb2e5cc45756853a2083390d633d
+Size: 136706
+MD5sum: 9479064ed17e58457fadbcfd32f43d32
+SHA1: f911a28e34345d724238d31e560227041360798c
+SHA256: bbee932d0cc20dece57c0a68eb737426182b13559c2485fdaa69aad7c064d2a6
+SHA512: 266a2d4099d4f4df1f77ee0fed556da6ff415f44332f9f34648f03ff7485286ae80a2e39b360ef4076bb054394904dee4836d75039ec236dde0f56ee0373f4db
 Homepage: http://twitter.com/cydia_br
 Description: Dribla a detecção de Jailbreak do Banco Inter.
 Name: Banco Inter Jailbreak Bypass
