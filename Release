@@ -5,7 +5,7 @@ Version: 1.0
 Codename: CydiaBR
 Architecture: iphoneos-arm
 Components: main
-Description: Maior repo BR!
+Description: Maior repo BR
 MD5Sum:
- fd45447957b49c922f7bff67f59c64a9 748 Packages
- de0449d24b598423e8905d5f3c5845f3 550 Packages.bz2
+ d41d8cd98f00b204e9800998ecf8427e 0 Packages
+ 4059d198768f9f8dc9372dc1c54bc3c3 14 Packages.bz2
