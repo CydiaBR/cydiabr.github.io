@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: Maior repo BR
 MD5Sum:
- 3c56fb7979a3bce646132259626b3833 764 Packages
- ca76aa3e914c80a8f114850e1e0e86e7 562 Packages.bz2
+ ba8fb8bd18e3e479728d27dc2d724fdf 759 Packages
+ 5fd5c2c5ebfe00fbd992f71a00cc7416 555 Packages.bz2
