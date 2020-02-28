@@ -5,11 +5,11 @@ Section: Utilitários
 Maintainer: Marcelo Kachimarck
 Depends: 
 Filename: ./debfiles/com.cydiabr.icleanerpro_7.7.5k_iphoneos-arm.deb
-Size: 7708130
-MD5sum: 58198dafd910aab4887bec700d265cc7
-SHA1: f2f90fc12a839114683924a5c6f25f8714f98b1d
-SHA256: 01701e7d0496b0548f771ebe4d3b0d887c727a63a231c07eecf01078aa3942e0
-SHA512: 91e599a956640447e3c49f51bb6b8834114cc21888eedca90beb95233e545b2b0db25cad0a9910083ed39e968dc611bf8db2feb441582bf0784ead900307b22d
+Size: 7710762
+MD5sum: d77d34461efc5ea4ec251bd0a6163aa0
+SHA1: f4ab3d35fc7af523cd5008e3816aad8b2517d083
+SHA256: 874705b46f390bd6c431aeb1ffe2890c4d4b99a6567ce45628625f54632faf2c
+SHA512: 91c1a9c66b81136546b0474e25f24422f1674854563b5dc08457cbde3fccb1ae89504ddaf6b313180475ef6c231a1d126b8825ad94d77db2a1b59acccff23b30
 Homepage: http://twitter.com/cydia_br
 Description: Remova arquivos desnecessários do seu dispositivo.
 Name: iCleaner Pro
