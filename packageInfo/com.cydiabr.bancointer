@@ -1,0 +1,8 @@
+{
+	"name": "Banco Inter",
+	"desc_short": "Dribla a detecção de Jailbreak do Banco Inter",
+	"desc_long": "Dribla a detecção de Jailbreak do Banco Inter",
+	"compatitle": "iOS13",
+	"changelog": "<strong>0.1beta</strong><br>+ Primeira verão.<br>",
+	"open": false,
+}
