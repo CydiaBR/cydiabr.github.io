@@ -22,7 +22,7 @@ Version: 0.1beta
 Section: Bypass
 Maintainer: Marcelo Kachimarck
 Depends: 
-Filename: ./debfiles/com.cydiabr.bancointer_0.1beta_iphoneos-arm
+Filename: ./debfiles/com.cydiabr.bancointer_0.1beta_iphoneos-arm.deb
 Size: 136622
 MD5sum: 3404b6599703eb38988020cb679f6d5f
 SHA1: e1f50c2112a47ad9d8fa7337b3218750b8d90276
