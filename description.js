@@ -32,7 +32,7 @@ function loadPackageInfo() {
 	var form_url = urlSelfParts[0]+"packageInfo/"+urlSelfParts[1];
 	if (navigator.userAgent.search(/Cydia/) == -1) {
 		$("#showAddRepo_").show();
-		$("#open_cydia").attr("href","cydia://url/https://cydia.saurik.com/api/share#?source=https://cydiabr.github.io/&package="+urlSelfParts[1]);
+		$("#open_cydia").attr("href","cydia://url/https://cydia.saurik.com/api/share#?source=https://cydiabr.github.io/repo/&package="+urlSelfParts[1]);
 	}
 	$.ajax({
 		url: form_url,
@@ -64,7 +64,7 @@ function loadPackageInfo() {
 				$("#compatitle").html(decodeResp.compatitle);
 				var ios_ver = iOSVersion();
 				if(ios_ver) {
-					$(".cur_ios").html("Current iOS: "+ios_ver);
+					$(".cur_ios").html("Versão Atual do iOS: "+ios_ver);
 				}
 			}
 			if(decodeResp.changelog) {
